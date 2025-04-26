@@ -1,0 +1,49 @@
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. View Account Details
+5. Exit
+Select an option: 1
+Enter account holder name: 1
+Enter account type (Checking/Savings): rajan
+Enter opening balance: 500
+Account created successfully! Account Number: 1000
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. View Account Details
+5. Exit
+Select an option: 2
+Enter account number: 1000
+Enter amount to deposit: 100
+Deposited successfully.
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. View Account Details
+5. Exit
+Select an option: 3
+Enter account number: 1000
+Enter amount to withdraw: 200
+Withdrawal successful.
+
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. View Account Details
+5. Exit
+Select an option: 4
+Enter account number: 1000
+
+=== Account Details ===
+Account Number: 1000
+Holder Name: 1
+Account Type: rajan
+Balance: $400.00
+Transaction History:
+- Sat Apr 26 08:14:10 GMT 2025: Account created with balance $500.00
+- Sat Apr 26 08:14:23 GMT 2025: Deposited $100.00
+- Sat Apr 26 08:14:39 GMT 2025: Withdrew $200.00

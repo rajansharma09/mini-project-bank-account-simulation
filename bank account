@@ -1,0 +1,3 @@
+Bank Management System – Java Mini Project
+
+This is a console-based Java application that simulates core banking operations. It allows users to create new accounts with unique account numbers, deposit and withdraw money, view account details, and track transaction history. All account data is saved to a file for persistence and automatically loaded when the application restarts. The system includes input validation, error handling, and support for different account types (Checking/Savings). It’s a reliable, easy-to-use project demonstrating object-oriented programming, file handling, and real-world logic.
